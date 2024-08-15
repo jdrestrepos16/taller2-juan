@@ -12,7 +12,8 @@ import numpy as np
 K = 2
 n = 1000
 vals = np.random.gamma(shape=K,size=n)
-print(vals)
+print(K)
+a = 10
 
 import pandas as pd
 
