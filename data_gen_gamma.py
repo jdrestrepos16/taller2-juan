@@ -31,7 +31,7 @@ from scipy.stats import gamma
 import numpy as np
 import matplotlib.pyplot as plt
 
-x= np.arange(0,10,0.01)
+x= np.arange(0,10,0.01)  
 plt.plot(x, gamma.pdf(x, a=K))
 plt.title('Función de densidad gamma(K=2)')
 plt.xlabel('Valores')
