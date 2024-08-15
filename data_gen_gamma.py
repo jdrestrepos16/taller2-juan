@@ -14,6 +14,7 @@ n = 1000
 vals = np.random.gamma(shape=K,size=n)
 print(K)
 a = 10
+b = 16
 
 import pandas as pd
 
