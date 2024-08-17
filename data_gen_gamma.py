@@ -16,7 +16,7 @@ print(K)
 a = 10
 b = 16
 c = 44
-print(a+c)
+print(a+c+b)
 
 import pandas as pd
 
